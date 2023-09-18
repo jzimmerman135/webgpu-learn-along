@@ -12,7 +12,7 @@ This is a chance for us to learn a technology together and from each other. This
 
 Ultimately we will probably try making some cool demo at the end
 
-### What are the learning goals?
+### What are we going to learn?
 
 Some of these you may know, but this is all the content this learn along will likely cover.
 
@@ -31,6 +31,8 @@ In the end we hope to make some sort of demo, here are some ideas we might make,
    - If we collaborated, any or all of us use it.
 
 ### Learning Goals
+
+Hopefully we will implement all of the following in minimal viable examples, feel free to add any you want to cover!
 
 - [ ] Hello Triangle
 - [x] Google's Game of Life GPU Simulation tutorial
