@@ -35,7 +35,7 @@ In the end we hope to make some sort of demo, here are some ideas we might make,
 - [ ] Hello Triangle
 - [x] Google's Game of Life GPU Simulation tutorial
 - [ ] Interactive ripple Texture
-- [ ] Rendering a infinite sine wave plane \w movable camera
+- [ ] Rendering a finite sine wave plane \w movable camera
 - [ ] Add Fresnel sky reflection and water base color to sine wave plane
 - [ ] Add bloom sun-spots to sine wave plane (might not work)
 - [ ] Add ray traced refractive texture lookup to water base color
