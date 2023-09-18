@@ -32,7 +32,7 @@ In the end we hope to make some sort of demo, here are some ideas we might make,
 
 ### Learning Goals
 
-Hopefully we will implement all of the following in minimal viable examples, feel free to add any you want to cover!
+Hopefully we will implement all of the following in minimal viable examples, again, feel free to add!
 
 - [ ] Hello Triangle
 - [x] Google's Game of Life GPU Simulation tutorial
