@@ -1,0 +1,10 @@
+{
+  "name": "hello_triangle",
+  "version": "1.0.0",
+  "description": "Basic WebGPU Triangle",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@webgpu/types": "^0.1.34"
+  }
+}
